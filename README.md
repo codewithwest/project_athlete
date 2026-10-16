@@ -22,6 +22,7 @@ TwinStride AI is a proposed personalised athletic digital twin platform. It help
 - [Biomechanics and AI](docs/BIOMECHANICS_AND_AI.md)
 - [Rehabilitation and safety](docs/REHABILITATION_AND_SAFETY.md)
 - [Development roadmap](docs/ROADMAP.md)
+- [Velocity Knight Trainer integration plan](docs/VELOCITY_KNIGHT_TRAINER_INTEGRATION.md)
 
 ## Proposed technology
 
